@@ -19,6 +19,7 @@ It includes these main tables:
 6. fact_sales_monthly: contains monthly sales data for each product.
    
  <h3>Schema</h3>
+ 
 ![Ad hoc model](https://github.com/user-attachments/assets/6da647ae-282b-46b9-86ea-b7eca73ace8c)
 
 <h2>Contents</h2>
