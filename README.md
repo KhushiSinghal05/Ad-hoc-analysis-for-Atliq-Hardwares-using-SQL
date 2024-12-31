@@ -1,4 +1,4 @@
-# Ad-hoc-analysis-project-using-SQL
+# Ad-hoc-analysis using SQL
 
 <h2>📄Project Overview</h2>
 Atliq Hardwares, an imaginary leader in computer hardware manufacturing in India, is expanding its reach globally. The company's management faces challenges in making data-driven decisions quickly due to a lack of actionable insights.
@@ -19,6 +19,10 @@ It includes these main tables:
 6. fact_sales_monthly: contains monthly sales data for each product.
 
 <h2>Contents</h2>
+
+1. <b>Ad-hoc analysis using sql presentation.pdf</b> :- business-friendly report.
+
+2. <B>SQL requests and queries.sql</b> :- Requests and SQL scripts aeach business question.
 
 <h2>📊 Key Insights</h2>
 
@@ -46,11 +50,13 @@ revenue.
 
 <h2>🛠 Tools used</h2>
 
-1. MySQL workbench for running SQL queries.<br>
+1. MySQL workbench for running SQL queries.
+
 2. Canva for creating presentation and visuals.
 
 <h2>🚀 Key learnings</h2>
 
-1. Gained proficiency in SQL through solving real-world Business problems.<br>
+1. Gained proficiency in SQL through solving real-world Business problems.
+
 2. Able to translate complex data into actionable insights.
 
