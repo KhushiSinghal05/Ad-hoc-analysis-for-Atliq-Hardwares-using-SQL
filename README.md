@@ -1,4 +1,4 @@
-# Ad-hoc-analysis-project-using-SQL-
+# Ad-hoc-analysis-project-using-SQL
 
 <h2>📄Project Overview</h2>
 Atliq Hardwares, an imaginary leader in computer hardware manufacturing in India, is expanding its reach globally. The company's management faces challenges in making data-driven decisions quickly due to a lack of actionable insights.
