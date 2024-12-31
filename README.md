@@ -18,6 +18,8 @@ It includes these main tables:
 5. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
 6. fact_sales_monthly: contains monthly sales data for each product.
 
+![Ad hoc model](https://github.com/user-attachments/assets/6da647ae-282b-46b9-86ea-b7eca73ace8c)
+
 <h2>Contents</h2>
 
 1. <b>Ad-hoc analysis using sql presentation.pdf</b> :- business-friendly report.
